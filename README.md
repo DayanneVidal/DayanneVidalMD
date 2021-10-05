@@ -9,3 +9,9 @@
 - [Equipo_2-Avance1_PIA](https://github.com/calebmarentes10/Mineria-de-datos-/blob/main/Avance1_PIA_Equipo2.ipynb)
 
 - [Equipo_2-Presentacion_MetricasdeEvaluacion](https://github.com/mariagarnica/_mineria/blob/main/Presentacion_MetricasdeEvaluacion_Equipo2.pdf)
+
+- [Equipo_2-Avance2_PIA](https://github.com/calebmarentes10/Mineria-de-datos-/blob/main/AvancePIA_II_Grupo001_2.ipynb)
+
+- [Equipo_2-Visualizacion_Parte 1](https://github.com/calebmarentes10/Mineria-de-datos-/blob/main/Visualizacion_Equipo2.ipynb)
+
+- [Equipo_2-Visualizacion_Parte 2](https://github.com/calebmarentes10/Mineria-de-datos-/blob/main/Visualizacion_Equipo2_Parte2.ipynb)
