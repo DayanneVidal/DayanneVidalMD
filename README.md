@@ -21,3 +21,5 @@
 - [Equipo_2-Técnicas_de_Mineria_Equipo2](https://github.com/calebmarentes10/Mineria-de-datos-/blob/main/Tecnicas%20de%20mineria_Equipo2.ipynb)
 
 - [Equipo_2-Notebook](https://github.com/calebmarentes10/Mineria-de-datos-/blob/main/Notebook_Equipo2.ipynb)
+
+- [Equipo_2-Notebook](https://github.com/DayanneVidal/Mineria.de.Datos/blob/main/Poster-Equipo%202.pdf)
